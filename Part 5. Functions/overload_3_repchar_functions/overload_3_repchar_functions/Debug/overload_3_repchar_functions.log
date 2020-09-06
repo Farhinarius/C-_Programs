@@ -1,0 +1,4 @@
+﻿  overload_3_repchar_functions.cpp
+c:\users\dguln_000\documents\c++_programs\different_works\overload_3_repchar_functions\overload_3_repchar_functions\overload_3_repchar_functions.cpp(20): error C2065: cout: необъявленный идентификатор
+c:\users\dguln_000\documents\c++_programs\different_works\overload_3_repchar_functions\overload_3_repchar_functions\overload_3_repchar_functions.cpp(26): error C2065: cout: необъявленный идентификатор
+c:\users\dguln_000\documents\c++_programs\different_works\overload_3_repchar_functions\overload_3_repchar_functions\overload_3_repchar_functions.cpp(37): error C2065: cout: необъявленный идентификатор
